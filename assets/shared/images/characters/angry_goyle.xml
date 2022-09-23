@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="angry_goyle.png">
+<SubTexture name="angry girl down0000" x="2000" y="2151" width="284" height="395" frameX="-2" frameY="-18" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0001" x="2000" y="2151" width="284" height="395" frameX="-2" frameY="-18" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0002" x="1714" y="2151" width="286" height="397" frameX="0" frameY="-16" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0003" x="1714" y="2151" width="286" height="397" frameX="0" frameY="-16" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0004" x="567" y="2151" width="287" height="403" frameX="0" frameY="-10" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0005" x="567" y="2151" width="287" height="403" frameX="0" frameY="-10" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0006" x="854" y="2151" width="287" height="403" frameX="-1" frameY="-9" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0007" x="854" y="2151" width="287" height="403" frameX="-1" frameY="-9" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0008" x="1141" y="2151" width="286" height="403" frameX="-1" frameY="-9" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0009" x="1141" y="2151" width="286" height="403" frameX="-1" frameY="-9" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0010" x="1141" y="2151" width="286" height="403" frameX="-1" frameY="-9" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0011" x="1141" y="2151" width="286" height="403" frameX="-1" frameY="-9" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0012" x="1141" y="2151" width="286" height="403" frameX="-1" frameY="-9" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0013" x="1141" y="2151" width="286" height="403" frameX="-1" frameY="-9" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0014" x="1141" y="2151" width="286" height="403" frameX="-1" frameY="-9" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0015" x="1141" y="2151" width="286" height="403" frameX="-1" frameY="-9" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0016" x="281" y="2151" width="286" height="404" frameX="-2" frameY="-8" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0017" x="281" y="2151" width="286" height="404" frameX="-2" frameY="-8" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0018" x="0" y="2151" width="281" height="412" frameX="-6" frameY="0" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down0019" x="0" y="2151" width="281" height="412" frameX="-5" frameY="0" frameWidth="287" frameHeight="412" />
+<SubTexture name="angry girl down miss0000" x="2284" y="2151" width="284" height="395" frameX="-1" frameY="-9" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0001" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0002" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0003" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0004" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0005" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0006" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0007" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0008" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0009" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0010" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0011" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0012" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0013" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0014" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0015" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0016" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0017" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0018" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl down miss0019" x="1427" y="2151" width="287" height="403" frameX="0" frameY="0" frameWidth="287" frameHeight="403" />
+<SubTexture name="angry girl idle0000" x="2428" y="0" width="278" height="413" frameX="-1" frameY="-11" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0001" x="2428" y="0" width="278" height="413" frameX="-1" frameY="-11" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0002" x="1873" y="1256" width="279" height="415" frameX="-1" frameY="-9" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0003" x="1873" y="1256" width="279" height="415" frameX="-1" frameY="-9" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0004" x="1873" y="422" width="278" height="417" frameX="-1" frameY="-7" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0005" x="1873" y="422" width="278" height="417" frameX="-1" frameY="-7" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0006" x="822" y="1306" width="276" height="422" frameX="-2" frameY="-2" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0007" x="822" y="1306" width="276" height="422" frameX="-2" frameY="-2" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0008" x="0" y="1306" width="274" height="424" frameX="-2" frameY="0" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0009" x="0" y="1306" width="274" height="424" frameX="-2" frameY="0" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0010" x="274" y="1306" width="274" height="424" frameX="-1" frameY="0" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0011" x="274" y="1306" width="274" height="424" frameX="-1" frameY="0" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0012" x="1098" y="1306" width="274" height="422" frameX="0" frameY="-2" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0013" x="1098" y="1306" width="274" height="422" frameX="0" frameY="-2" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0014" x="2428" y="413" width="270" height="413" frameX="-1" frameY="-11" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0015" x="2428" y="413" width="270" height="413" frameX="-1" frameY="-11" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0016" x="2157" y="0" width="271" height="415" frameX="-1" frameY="-9" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0017" x="2157" y="0" width="271" height="415" frameX="-1" frameY="-9" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0018" x="1873" y="839" width="271" height="417" frameX="-1" frameY="-7" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0019" x="1873" y="839" width="271" height="417" frameX="-1" frameY="-7" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0020" x="1601" y="849" width="272" height="422" frameX="-2" frameY="-2" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0021" x="1601" y="849" width="272" height="422" frameX="-2" frameY="-2" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0022" x="1601" y="425" width="272" height="424" frameX="-2" frameY="0" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0023" x="1601" y="425" width="272" height="424" frameX="-2" frameY="0" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0024" x="548" y="1306" width="274" height="424" frameX="-1" frameY="0" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0025" x="548" y="1306" width="274" height="424" frameX="-1" frameY="0" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0026" x="1372" y="1306" width="275" height="422" frameX="0" frameY="-2" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl idle0027" x="1372" y="1306" width="275" height="422" frameX="0" frameY="-2" frameWidth="280" frameHeight="424" />
+<SubTexture name="angry girl left0000" x="0" y="1730" width="288" height="421" frameX="-3" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0001" x="0" y="1730" width="288" height="421" frameX="-3" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0002" x="288" y="1730" width="291" height="421" frameX="-1" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0003" x="288" y="1730" width="291" height="421" frameX="-1" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0004" x="579" y="1730" width="292" height="421" frameX="0" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0005" x="579" y="1730" width="292" height="421" frameX="0" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0006" x="871" y="1730" width="291" height="421" frameX="-2" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0007" x="871" y="1730" width="291" height="421" frameX="-2" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0008" x="1162" y="1730" width="290" height="421" frameX="-3" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0009" x="1162" y="1730" width="290" height="421" frameX="-3" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0010" x="1162" y="1730" width="290" height="421" frameX="-3" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0011" x="1162" y="1730" width="290" height="421" frameX="-3" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0012" x="1162" y="1730" width="290" height="421" frameX="-3" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0013" x="1162" y="1730" width="290" height="421" frameX="-3" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0014" x="1162" y="1730" width="290" height="421" frameX="-3" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0015" x="1162" y="1730" width="290" height="421" frameX="-3" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0016" x="1452" y="1730" width="290" height="421" frameX="-4" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0017" x="1452" y="1730" width="290" height="421" frameX="-4" frameY="-1" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0018" x="1873" y="0" width="284" height="422" frameX="-11" frameY="0" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left0019" x="1873" y="0" width="284" height="422" frameX="-11" frameY="0" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left miss0000" x="0" y="1730" width="288" height="421" frameX="-1" frameY="0" frameWidth="295" frameHeight="422" />
+<SubTexture name="angry girl left miss0001" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0002" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0003" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0004" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0005" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0006" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0007" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0008" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0009" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0010" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0011" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0012" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0013" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0014" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0015" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0016" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0017" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0018" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl left miss0019" x="1742" y="1730" width="291" height="421" frameX="0" frameY="0" frameWidth="291" frameHeight="421" />
+<SubTexture name="angry girl right0000" x="1067" y="432" width="265" height="429" frameX="-10" frameY="0" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0001" x="1067" y="432" width="265" height="429" frameX="-10" frameY="0" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0002" x="265" y="877" width="262" height="428" frameX="-11" frameY="-1" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0003" x="265" y="877" width="262" height="428" frameX="-11" frameY="-1" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0004" x="527" y="877" width="261" height="428" frameX="-12" frameY="-1" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0005" x="527" y="877" width="261" height="428" frameX="-12" frameY="-1" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0006" x="788" y="877" width="260" height="427" frameX="-12" frameY="-2" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0007" x="788" y="877" width="260" height="427" frameX="-12" frameY="-2" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0008" x="1048" y="877" width="261" height="427" frameX="-11" frameY="-2" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0009" x="1048" y="877" width="261" height="427" frameX="-11" frameY="-2" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0010" x="1048" y="877" width="261" height="427" frameX="-11" frameY="-2" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0011" x="1048" y="877" width="261" height="427" frameX="-11" frameY="-2" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0012" x="1048" y="877" width="261" height="427" frameX="-11" frameY="-2" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0013" x="1048" y="877" width="261" height="427" frameX="-11" frameY="-2" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0014" x="1048" y="877" width="261" height="427" frameX="-11" frameY="-2" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0015" x="1048" y="877" width="261" height="427" frameX="-11" frameY="-2" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0016" x="1339" y="0" width="262" height="427" frameX="-10" frameY="-2" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0017" x="1339" y="0" width="262" height="427" frameX="-10" frameY="-2" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0018" x="1601" y="0" width="272" height="425" frameX="0" frameY="-4" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right0019" x="1601" y="0" width="272" height="425" frameX="0" frameY="-4" frameWidth="274" frameHeight="429" />
+<SubTexture name="angry girl right miss0000" x="0" y="877" width="265" height="429" frameX="0" frameY="0" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0001" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0002" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0003" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0004" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0005" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0006" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0007" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0008" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0009" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0010" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0011" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0012" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0013" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0014" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0015" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0016" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0017" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0018" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl right miss0019" x="1339" y="427" width="260" height="427" frameX="-3" frameY="-2" frameWidth="265" frameHeight="429" />
+<SubTexture name="angry girl up0000" x="0" y="0" width="267" height="439" frameX="-6" frameY="0" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0001" x="0" y="0" width="267" height="439" frameX="-5" frameY="0" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0002" x="535" y="0" width="267" height="438" frameX="-6" frameY="-1" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0003" x="535" y="0" width="267" height="438" frameX="-6" frameY="-1" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0004" x="530" y="439" width="266" height="437" frameX="-7" frameY="-2" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0005" x="530" y="439" width="266" height="437" frameX="-7" frameY="-2" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0006" x="802" y="0" width="265" height="438" frameX="-8" frameY="-1" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0007" x="802" y="0" width="265" height="438" frameX="-8" frameY="-1" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0008" x="0" y="439" width="265" height="438" frameX="-7" frameY="-1" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0009" x="0" y="439" width="265" height="438" frameX="-7" frameY="-1" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0010" x="0" y="439" width="265" height="438" frameX="-7" frameY="-1" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0011" x="0" y="439" width="265" height="438" frameX="-7" frameY="-1" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0012" x="0" y="439" width="265" height="438" frameX="-7" frameY="-1" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0013" x="0" y="439" width="265" height="438" frameX="-7" frameY="-1" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0014" x="0" y="439" width="265" height="438" frameX="-7" frameY="-1" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0015" x="0" y="439" width="265" height="438" frameX="-7" frameY="-1" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0016" x="796" y="439" width="265" height="437" frameX="-7" frameY="-2" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0017" x="796" y="439" width="265" height="437" frameX="-7" frameY="-2" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0018" x="1067" y="0" width="272" height="432" frameX="0" frameY="-7" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up0019" x="1067" y="0" width="272" height="432" frameX="0" frameY="-7" frameWidth="272" frameHeight="439" />
+<SubTexture name="angry girl up miss0000" x="267" y="0" width="268" height="439" frameX="0" frameY="0" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0001" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0002" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0003" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0004" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0005" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0006" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0007" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0008" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0009" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0010" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0011" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0012" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0013" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0014" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0015" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0016" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0017" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0018" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+<SubTexture name="angry girl up miss0019" x="265" y="439" width="265" height="438" frameX="-3" frameY="-1" frameWidth="268" frameHeight="439" />
+</TextureAtlas>
